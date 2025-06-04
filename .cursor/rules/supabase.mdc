@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Project Brief Project Overview Task Management API with Supabase Develop a RESTful API for task management that demonstrates database modeling, authentication, and API design skills. Technical Requirements: Build using Express • Integrate with Supabase for data storage and authentication • Implement proper data validation and error handling • Create comprehensive API documentation • Include basic test coverage Database Requirements: • Proper data modeling with relationships • Efficient queries with appropriate indexes • Basic database migration strategy Required Features: • User authentication (leveraging Supabase Auth) • CRUD operations for tasks and task categories • Task assignment and status management • Basic analytics endpoint (task completion rates, overdue tasks) • At least one scheduled job (e.g., daily digest simulation) Evaluation Criteria: • API design and RESTful practices • Database schema design and query efficiency • Authentication implementation • Error handling approach • Documentation quality • Test coverage of critical paths Deliverables: • GitHub repository with complete source code • API documentation OpenAPI preferred • README with setup instructions and notes on implementation decisions • Brief explanation of where AI tools were used (if applicable)
